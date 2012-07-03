@@ -1,7 +1,7 @@
 Digital Audio Restoration
 -------------------------
 
-Click and pop removal using an autoregressive model.
+Click and pop removal using an autoregressive model (AR) and sinusoid + AR model.
 
 A paper outlining the implementation is available here: http://www.music.mcgill.ca/~greg/courses/MUMT605/MUMT605finalpaper.pdf
 
